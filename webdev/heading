@@ -1,0 +1,18 @@
+Step 11
+Finally, JavaScript makes your webpage interactive — it lets you tell the page what to do when someone clicks a button, submits a form, or many other things.
+
+For the last step of the workshop, add another h3 and p element to the page describing JavaScript.
+
+First, add an h3 element with the text:
+
+Introduction to JavaScript
+Then, below that h3 element, add a p element with the following text:
+
+JavaScript adds interactivity to a webpage
+
+
+
+
+<h3>Introduction to JavaScript</h3>
+<p>JavaScript adds interactivity to a webpage</p>
+
