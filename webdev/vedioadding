@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Video Compilation Page</title>
+  </head>
+  <body>
+    <main>
+      <h1>My Favorite Travel Videos</h1>
+      <p>Here are some amazing travel videos from around the world. Each section highlights a different destination you should definitely add to your bucket list!</p>
+      
+      <section>
+        <h2>Exploring Rome</h2>
+        <p>Discover the history, culture, and charm of Rome in this short travel guide.</p>
+        <iframe 
+          src="https://www.youtube.com/embed/5h6v8W-TOi8" 
+          title="Rome Travel Guide" 
+          width="560" 
+          height="315">
+        </iframe>
+      </section>
+      
+      <section>
+        <h2>Adventures in the Alps</h2>
+        <p>Experience the breathtaking beauty of the Alps with this adventure video.</p>
+        <iframe 
+          src="https://www.youtube.com/embed/W2h3lFqP_2w" 
+          title="Alps Adventure" 
+          width="560" 
+          height="315">
+        </iframe>
+      </section>
+      
+      <section>
+        <h2>Tropical Beaches</h2>
+        <p>Relax and enjoy the serenity of tropical beaches through this video journey.</p>
+        <iframe 
+          src="https://www.youtube.com/embed/qN3wfuPYTI4" 
+          title="Tropical Beaches" 
+          width="560" 
+          height="315">
+        </iframe>
+      </section>
+    </main>
+  </body>
+</html>
